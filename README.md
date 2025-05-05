@@ -15,7 +15,7 @@ Here you'll find a variety of personal and professional projects developed using
 
 ## 📌 Excel Reports
 
-### 📁 [Asistencia](./data-analytics-projects/RDA(Prueba).xlsx
+### 📁 [Asistencia](.data-analytics-projects/RDA(Prueba).xlsx)
 
 
 ### 📌 Power BI Projects
