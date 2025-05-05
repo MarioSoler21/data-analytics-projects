@@ -11,8 +11,12 @@ Here you'll find a variety of personal and professional projects developed using
 
 ## 🔍 Project Index
 
-### 📌 Excel Projects
-- **[[Sales Performance Report](./Excel%20Data%20Analysis%20Projects/RDA(Prueba).xlsx)](https://github.com/MarioSoler21/data-analytics-projects/blob/main/RDA(Prueba).xlsx)** – Custom Excel dashboard for sales tracking.
+---
+
+## 📌 Excel Reports
+
+### 📁 [Attendance Dashboard (Excel)](./ExcelReports/RDA(Prueba).xlsx)
+
 
 ### 📌 Power BI Projects
 - `To be added...`
