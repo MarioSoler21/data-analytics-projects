@@ -1,4 +1,4 @@
-# 📊 Data Analytics Projects
+# 📊 Data Analytics Projects Mario Soler
 
 Welcome to my portfolio of Data Analytics projects!  
 Here you'll find a variety of personal and professional projects developed using:
