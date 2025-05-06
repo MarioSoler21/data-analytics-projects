@@ -1,33 +1,34 @@
-# Data Analytics Projects
+# 📊 Data Analytics Projects
 
-Welcome to my portfolio of Data Analytics projects! 📊  
-Here you'll find a variety of personal and professional projects developed using tools like:
+Welcome to my portfolio of Data Analytics projects!  
+Here you'll find a variety of personal and professional projects developed using:
 
 - Power BI (.pbix)
 - Tableau (.twbx)
 - Excel Dashboards (.xlsx)
 - Python & Machine Learning (Jupyter Notebooks)
-- SQL queries and CSV datasets
-
-## 🔍 Project Index
+- SQL Queries & CSV datasets
 
 ---
 
-## 📌 Excel Reports
+## 🔍 Project Index
 
-### 📁 [Asistencia](./RDA(Prueba).xlsx)
+### 📁 Excel Reports
 
+- 📄 [Asistencia Report - RDA(Prueba).xlsx](./RDA(Prueba).xlsx)  
+  🔗 [Ver en Google Sheets](https://docs.google.com/spreadsheets/d/1r_73kEDs07ucqjAIeH02pqZmIu9cl9MOjUogdtLLdnM/edit?usp=sharing)
 
-### 📌 Power BI Projects
-- `To be added...`
+### 📊 Power BI Projects
+- 📌 *Coming soon...*
 
-### 📌 Machine Learning Projects
-- `To be added...`
-
-More projects coming soon. This repo is constantly being updated!
+### 🤖 Machine Learning Projects
+- 📌 *Coming soon...*
 
 ---
 
 ## 🧠 About Me
 
-I'm Mario David Soler Sabión, a Data Analyst passionate about transforming raw data into actionable insights through dashboards, visualizations, and models.
+I'm **Mario David Soler Sabión**, a Data Analyst passionate about transforming raw data into actionable insights using visualizations, dashboards, and models.  
+This repository is part of my public portfolio for employers and collaborators.
+
+> 📌 **Note**: This repo is updated regularly with new content — stay tuned!
