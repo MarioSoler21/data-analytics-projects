@@ -5,7 +5,7 @@ Here you'll find a variety of personal and professional projects developed using
 
 - Power BI (.pbix)
 - Tableau (.twbx)
-- Excel Dashboards (.xlsx)
+- Excel (.xlsx)
 - Python & Machine Learning (Jupyter Notebooks)
 - SQL Queries & CSV datasets
 
@@ -26,7 +26,7 @@ Here you'll find a variety of personal and professional projects developed using
 ### 📊 Tableau Projects
 
 - 📁 [Tableau Projects Folder](Tableau/)  
-  *(Includes .pbix dashboards and visual analytics reports)*
+  *(Includes .twbx dashboards and visual analytics reports)*
 
 
 
