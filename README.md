@@ -25,7 +25,9 @@ Here you'll find a variety of personal and professional projects developed using
 
 ### 📊 Tableau Projects
 
-- 📌 *Coming soon...*
+- 📁 [Tableau Projects Folder](Tableau/)  
+  *(Includes .pbix dashboards and visual analytics reports)*
+
 
 
 ### 🤖 Machine Learning Projects
