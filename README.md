@@ -15,7 +15,7 @@ Here you'll find a variety of personal and professional projects developed using
 
 ### 📁 Excel Reports
 
-- 📄 [Asistencia Report - RDA(Prueba).xlsx](./RDA(Prueba).xlsx)  
+- 📄 [Asistencia Report - RDA(Prueba).xlsx](Excel/RDA(Prueba).xlsx)  
   🔗 [Ver en Google Sheets](https://docs.google.com/spreadsheets/d/1r_73kEDs07ucqjAIeH02pqZmIu9cl9MOjUogdtLLdnM/edit?usp=sharing)
 
 ### 📊 Power BI Projects
