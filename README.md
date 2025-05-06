@@ -19,11 +19,13 @@ Here you'll find a variety of personal and professional projects developed using
   🔗 [Financial Invoices Report--Reporte de Finanzas de facturas](https://docs.google.com/spreadsheets/d/1r_73kEDs07ucqjAIeH02pqZmIu9cl9MOjUogdtLLdnM/edit?usp=sharing)
 
 ### 📊 Power BI Projects
-- 📌 *Coming soon...*
+
+- 📁 [Power BI Projects Folder](PowerBI/)  
+  *(Includes .pbix dashboards and visual analytics reports)*
 
 ### 🤖 Machine Learning Projects
-- 📌 *Coming soon...*
 
+- 📌 *Coming soon...*
 ---
 
 ## 🧠 About Me
